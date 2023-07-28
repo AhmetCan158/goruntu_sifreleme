@@ -1,0 +1,14 @@
+C:\Users\AHMET CAN\Desktop\goruntu_cozme\goruntu_cozme\bin\Debug\goruntu_cozme.exe.config
+C:\Users\AHMET CAN\Desktop\goruntu_cozme\goruntu_cozme\bin\Debug\goruntu_cozme.exe
+C:\Users\AHMET CAN\Desktop\goruntu_cozme\goruntu_cozme\bin\Debug\goruntu_cozme.pdb
+C:\Users\AHMET CAN\Desktop\goruntu_cozme\goruntu_cozme\obj\Debug\goruntu_cozme.csproj.AssemblyReference.cache
+C:\Users\AHMET CAN\Desktop\goruntu_cozme\goruntu_cozme\obj\Debug\MainWindow.baml
+C:\Users\AHMET CAN\Desktop\goruntu_cozme\goruntu_cozme\obj\Debug\MainWindow.g.cs
+C:\Users\AHMET CAN\Desktop\goruntu_cozme\goruntu_cozme\obj\Debug\App.g.cs
+C:\Users\AHMET CAN\Desktop\goruntu_cozme\goruntu_cozme\obj\Debug\goruntu_cozme_MarkupCompile.cache
+C:\Users\AHMET CAN\Desktop\goruntu_cozme\goruntu_cozme\obj\Debug\goruntu_cozme.g.resources
+C:\Users\AHMET CAN\Desktop\goruntu_cozme\goruntu_cozme\obj\Debug\goruntu_cozme.Properties.Resources.resources
+C:\Users\AHMET CAN\Desktop\goruntu_cozme\goruntu_cozme\obj\Debug\goruntu_cozme.csproj.GenerateResource.cache
+C:\Users\AHMET CAN\Desktop\goruntu_cozme\goruntu_cozme\obj\Debug\goruntu_cozme.csproj.CoreCompileInputs.cache
+C:\Users\AHMET CAN\Desktop\goruntu_cozme\goruntu_cozme\obj\Debug\goruntu_cozme.exe
+C:\Users\AHMET CAN\Desktop\goruntu_cozme\goruntu_cozme\obj\Debug\goruntu_cozme.pdb
